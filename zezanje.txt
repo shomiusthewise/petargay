@@ -72,26 +72,26 @@
 <body>
 
   <header>
-    <h1>Slobodna IT Zajednica</h1>
+    <h1>Slobodna IT Gay Zajednica</h1>
     <h2>Zajednica gde se piše i kod, i ljubavno pismo.</h2>
   </header>
 
   <div class="section">
     <h2>💖 Dobrodošli!</h2>
-    <p>Ovo je prva IT zajednica na Balkanu posvećena slobodi izražavanja, ljubavi prema kodiranju i romantičnom frontendu.</p>
-    <p>Ovde se pišu JavaScript deklaracije i ljubavna pisma istim žarom.</p>
+    <p>Ovo je prva IT Gay zajednica na Balkanu posvećena slobodi izražavanja, ljubavi prema kodiranju i romantičnom frontendu.</p>
+    <p>Ovde se pišu JavaScript deklaracije i ljubavna Gay pisma istim žarom.</p>
   </div>
 
   <div class="section">
-    <h2>🌟 Prvi član naše zajednice: <strong>Petar Veseli</strong></h2>
-    <p>Petar, poznat i kao <em>„backend romantičar“</em>, hrabro je zakoračio u svet otvorenog koda i otvorenog srca.</p>
-    <blockquote>„Nikada nisam znao da ću baš ovde pronaći strast prema CSS-u i nežnosti.“ – Petar V.</blockquote>
+    <h2>🌟 Prvi član naše otvorene Gay zajednice: <strong>Petar Veselinović</strong></h2>
+    <p>Petar, poznat i kao <em>„coding romantičar“</em>, hrabro je izašao iz ormara zakoračio u svet otvorenog koda i otvorenog srca.</p>
+    <blockquote>„Nikada nisam znao da ću baš ovde pronaći strast i nežnost prema kodiranju i muškarcima.“ – Petar V.</blockquote>
   </div>
 
   <a href="#" class="button">Učlani se</a>
 
   <footer>
-    <p>Kontakt: kontakt@slobodnait.rs | Prati nas na @slobodnait 🌈</p>
+    <p>Kontakt: kontakt@itgay.rs | Prati nas na @gayit 🌈</p>
     <p>&copy; 2025 Slobodna IT Zajednica. Slobodno, nežno, iskreno.</p>
   </footer>
 
